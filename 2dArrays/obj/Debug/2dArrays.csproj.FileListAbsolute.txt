@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\bin\Debug\2dArrays.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\bin\Debug\2dArrays.exe
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\bin\Debug\2dArrays.pdb
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\obj\Debug\2dArrays.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\obj\Debug\2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\obj\Debug\2dArrays.exe
+C:\Users\Nemanja Djordjevic\source\repos\CodeWars\2dArrays\obj\Debug\2dArrays.pdb
